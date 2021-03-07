@@ -1,0 +1,1 @@
+docker build -f ./Dockerfile -t backend:1.0 .
